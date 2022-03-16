@@ -1,9 +1,9 @@
 import os
 import sys
 from pathlib import Path
-import glob
+
 import cv2
-import torch
+
 
 import numpy as np
 
